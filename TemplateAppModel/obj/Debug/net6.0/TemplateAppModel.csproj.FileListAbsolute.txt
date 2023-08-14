@@ -1,0 +1,12 @@
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\bin\Debug\net6.0\TemplateAppModel.deps.json
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\bin\Debug\net6.0\TemplateAppModel.dll
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\bin\Debug\net6.0\TemplateAppModel.pdb
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\obj\Debug\net6.0\TemplateAppModel.csproj.AssemblyReference.cache
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\obj\Debug\net6.0\TemplateAppModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\obj\Debug\net6.0\TemplateAppModel.AssemblyInfoInputs.cache
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\obj\Debug\net6.0\TemplateAppModel.AssemblyInfo.cs
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\obj\Debug\net6.0\TemplateAppModel.csproj.CoreCompileInputs.cache
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\obj\Debug\net6.0\TemplateAppModel.dll
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\obj\Debug\net6.0\refint\TemplateAppModel.dll
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\obj\Debug\net6.0\TemplateAppModel.pdb
+C:\VS2022Applications\Net6\TestApplication\TemplateAppModel\obj\Debug\net6.0\ref\TemplateAppModel.dll
